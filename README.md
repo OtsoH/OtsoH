@@ -1,8 +1,8 @@
-## Hi there! 👋
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <div align="center">
 
-Software developer building end-to-end systems — I enjoy working in agile teams, thinking about architecture and security as a whole, and delivering features incrementally through solid CI/CD and automated testing. I care about making things work not just technically, but from a business perspective too.
+Software developer building end-to-end systems — I enjoy working in agile teams, thinking about architecture and security as a whole, and delivering features incrementally through solid CI/CD and automated testing. I actively leverage AI tools in my workflows to boost productivity and code quality. I care about making things work not just technically, but from a business perspective too.
 
 </div>
 
