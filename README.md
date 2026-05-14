@@ -1,3 +1,13 @@
+## Hi there! 👋
+
+<div align="center">
+
+Software developer building end-to-end systems — I enjoy working in agile teams, thinking about architecture and security as a whole, and delivering features incrementally through solid CI/CD and automated testing. I care about making things work not just technically, but from a business perspective too.
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -21,22 +31,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtsoH&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtsoH&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</div>
-
 ---
 
 ### 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OtsoH&theme=tokyo-night&hide_border=true&area=true&days=365" alt="Activity graph"/>
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OtsoH&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
 </div>
