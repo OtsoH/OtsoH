@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I build software end to end and I like the whole loop, from arguing about architecture to shipping the thing and watching it not break. I work best on small teams that move in tight increments, lean on CI and tests instead of vibes, and ship security thinking into features from the start. I use AI tools in my workflows regularly because they make me faster, not because it's trendy. The code only matters if it solves a real problem for someone.
+I build software end to end. I thrive in small teams that move fast in tight increments, lean heavily on CI and tests instead of vibes, and treat security as a feature, not an afterthought. I use AI tools in my workflows regularly because they make me faster, not because it's trendy. And on the rare occasions I feel like abandoning all logic and descending into pure, unadulterated madness? That’s what Unity is for.
 
 </div>
 
