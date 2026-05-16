@@ -4,13 +4,13 @@
 
 <div align="center">🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸</div>
 
+<br>
+
 <div align="center">
 
-I build software end to end. I thrive in small teams that move fast in tight increments, lean heavily on CI and tests instead of vibes, and treat security as a feature, not an afterthought. I use AI tools in my workflows regularly because they make me faster, not because it's trendy. And on the rare occasions I feel like abandoning all logic and descending into pure, unadulterated madness? That’s what Unity is for.
+I build software end to end. I thrive in small teams that move fast in tight increments, lean heavily on CI and tests instead of vibes, and treat security as a feature, not an afterthought. I use AI tools in my workflows regularly because they make me faster, not because it’s trendy. And on the rare occasions I feel like abandoning all logic and descending into pure, unadulterated madness? That’s what Unity is for.
 
 </div>
-
-<div align="center">🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸</div>
 
 <div align="center">
 
@@ -53,7 +53,9 @@ I build software end to end. I thrive in small teams that move fast in tight inc
 
 </div>
 
+<br>
 <div align="center">🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸</div>
+<br>
 
 <div align="center">
 <img src="skeletor.svg" alt="Skeletor ASCII Art" />
