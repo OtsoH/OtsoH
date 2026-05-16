@@ -1,18 +1,20 @@
-## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=1200&color=FFB7C5&center=true&vCenter=true&width=600&height=70&lines=Hello+there!" alt="Hello there!" />
+</div>
+
+<div align="center">🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸</div>
 
 <div align="center">
 
-Software developer building end-to-end systems, I enjoy working in agile teams, thinking about architecture and security as a whole, and delivering features incrementally through solid CI/CD and automated testing. I actively leverage AI tools in my workflows to boost productivity and code quality. I care about making things work not just technically, but from a business perspective too.
+I build software end to end and I like the whole loop, from arguing about architecture to shipping the thing and watching it not break. I work best on small teams that move in tight increments, lean on CI and tests instead of vibes, and ship security thinking into features from the start. I use AI tools in my workflows regularly because they make me faster, not because it's trendy. The code only matters if it solves a real problem for someone.
 
 </div>
 
----
-
-### 🛠️ Tech Stack
+<div align="center">🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸</div>
 
 <div align="center">
 
-**Languages**
+**▰▰▱ Languages ▱▰▰**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,7 +22,7 @@ Software developer building end-to-end systems, I enjoy working in agile teams, 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Frameworks & Libraries**
+**▰▰▱ Frameworks & Libraries ▱▰▰**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -30,13 +32,13 @@ Software developer building end-to-end systems, I enjoy working in agile teams, 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logoColor=white)
 
-**Databases**
+**▰▰▱ Databases ▱▰▰**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**DevOps & CI/CD**
+**▰▰▱ DevOps & CI/CD ▱▰▰**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -45,16 +47,14 @@ Software developer building end-to-end systems, I enjoy working in agile teams, 
 ![Fly.io](https://img.shields.io/badge/Fly.io-24185B?style=for-the-badge&logo=flydotio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Game Dev**
+**▰▰▱ Game Dev ▱▰▰**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
----
-
-### 📈 Activity & Stats
+<div align="center">🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸 ・ 。 ・ 🌸</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OtsoH&theme=tokyo-night&hide_border=true&area=true&days=365" alt="Activity graph"/>
+<img src="skeletor.svg" alt="Skeletor ASCII Art" />
 </div>
