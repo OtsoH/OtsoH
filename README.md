@@ -8,7 +8,7 @@
 
 <div align="center">
 
-I build software end to end. I thrive in small teams that move fast in tight increments, lean heavily on CI and tests instead of vibes, and treat security as a feature, not an afterthought. I use AI tools in my workflows regularly because they make me faster, not because it’s trendy. And on the rare occasions I feel like abandoning all logic and descending into pure, unadulterated madness? That’s what Unity is for.
+End-to-end software builder focused on reliable, scalable, and secure systems. I do my best work in small teams that move fast from initial planning all the way to production, relying on CI/CD and comprehensive testing instead of just good vibes. I like keeping things structured, except when I'm building games in Unity.
 
 </div>
 
